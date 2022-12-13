@@ -3,14 +3,10 @@ Hi 👋 My name is Ignacio Oliu
 
 Full stack Software Engineering | Software Developer
 ----------------------------------------------------
+Full Stack Developer / Software Engineer. As a 💻📱 technology enthusiast with a background in electrical engineering, I have always been interested in exploring the world of software development. The technologies I am working on right now: JavaScript, TypeScript, Git, Angular, React, Vue, Bootstrap, AWS (AWS Lambda, Gateway, Dynamodb, Cognito, and Amplify), Firebase, MongoDB, Mongoose, SQL, Sequelize, Postgres, Express, and Koa.
 
-As a 💻📱tech enthusiast with a background in electrical engineering 🔌, I've always been drawn to the world of software development. I started by taking courses in machine learning and computer vision, which sparked my interest in the field. 
-
-I then completed a fullstack software engineering bootcamp, where I learned a wide range of technologies including front-end tech like JavaScript, TypeScript, Git, Angular, React, and Vue, as well as back-end tech like AWS, Firebase, MongoDB, and SQL. I also gained experience with cloud services like AWS Lambda, Gateway, and Cognito. 
-
-Before going full-time in software, I also gained experience with C, Arduino, Micro:bit, and FPGA, which gave me a strong foundation in both software and hardware development. In the last few years, I've also worked as a freelancer, creating a company focused on engineering and energy efficiency projects. This has allowed me to gain recognition for my work in this field and develop expertise in project management in the energy sector. 
-
-Some of my strengths include teamwork, analytical thinking, and versatility. These skills have helped me excel in my career and deliver successful projects in dynamic and challenging environments. 
+Before going full-time in software, I also gained experience with C, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery. These skills were developed during my time at university and have given me a strong foundation in both software and hardware development.
+Some of my strengths include teamwork, analytical thinking, and versatility. These skills have helped me excel in my career and deliver successful projects in dynamic and challenging environments.
 
 I'm always excited to learn new technologies and apply them to create innovative solutions. Let's connect and see how we can work together on interesting projects. 🤝😎
 
