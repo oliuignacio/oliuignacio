@@ -14,7 +14,6 @@ I'm always excited to learn new technologies and apply them to create innovative
 * 🖥️  See my portfolio at [Portfolio is in the pipeline, stay tuned for updates!🚧](http://ComingSoon 📡)
 * ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
 * 🚀  I'm currently working on [mytable](http://github.com/mytableDev/mytable)
-* 🧠  I'm learning machine learning and computer vision to apply these technologies to build useful and beneficial applications.
 
 ### Skills
 
