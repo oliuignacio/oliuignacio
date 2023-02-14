@@ -1,4 +1,4 @@
-Hi My name is Ignacio Oliu
+Hi my name is Ignacio Oliu
 =============================
 
 Full stack Developer | Software Engineering
