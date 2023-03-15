@@ -6,7 +6,7 @@ Full stack Developer | Software Engineering
 As a 💻📱 technology enthusiast with a background in electrical engineering, I have always been interested in exploring the world of software development. The technologies I am working on right now: JavaScript, TypeScript, Git, Angular, React, Vue, Bootstrap, AWS (AWS Lambda, Gateway, Dynamodb, Cognito, and Amplify), Firebase, MongoDB, Mongoose, SQL, Sequelize, Postgres, Express, and Koa.
 
 Before going full-time in software, I also gained experience with C, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery. These skills were developed during my time at university and have given me a strong foundation in both software and hardware development.
-Some of my strengths include teamwork,  analytical thinking, and versatility. These skills have helped me excel in my career and deliver successful projects in dynamic and challenging environments.
+Some of my strengths include teamwork, analytical thinking, and versatility. These skills have helped me excel in my career and deliver successful projects in dynamic and challenging environments.
 
 I'm always excited to learn new technologies and apply them to create innovative solutions. Let's connect and see how we can work together on interesting projects. 🤝😎
 
