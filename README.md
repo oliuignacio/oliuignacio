@@ -11,9 +11,8 @@ Some of my strengths include teamwork, analytical thinking, and versatility. The
 I'm always excited to learn new technologies and apply them to create innovative solutions. Let's connect and see how we can work together on interesting projects. 🤝😎
 
 * 🌍  I'm based in Barcelona
-[* 🖥️  See my portfolio at [Portfolio is in the pipeline, stay tuned for updates!📡](  )](url)
 * ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
-* 🚀  I'm currently working on [mytable](http://github.com/mytableDev/mytable)
+* 🚀  I'm currently working on [Playmotiv](https://playmotiv.com/)
 
 ### Skills
 
