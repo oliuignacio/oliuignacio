@@ -14,7 +14,7 @@ I'm always excited to learn new technologies and apply them to create innovative
 * ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
 * 🚀  I'm currently working on [Playmotiv](https://playmotiv.com/) 
 
-<img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="64" height="auto" alt="JavaScript" />
+<a href="https://playmotiv.com/"> <img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="auto" height="64" alt="JavaScript" /> </ a>
 
 ### Skills
 
