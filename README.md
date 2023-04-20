@@ -12,7 +12,9 @@ I'm always excited to learn new technologies and apply them to create innovative
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
-* 🚀  I'm currently working on [Playmotiv](https://playmotiv.com/)
+* 🚀  I'm currently working on [Playmotiv](https://playmotiv.com/) 
+
+<img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="64" height="36" alt="JavaScript" />
 
 ### Skills
 
