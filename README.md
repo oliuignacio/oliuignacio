@@ -3,15 +3,17 @@ Hi my name is Ignacio Oliu
 
 Full stack Developer | Software Engineering
 ----------------------------------------------------
-As a 💻📱 technology enthusiast with a background in electrical engineering, I have always been interested in exploring the world of software development. The technologies I am working on right now: JavaScript, TypeScript, Git, Angular, React, Vue, Bootstrap, AWS (AWS Lambda, Gateway, Dynamodb, Cognito, and Amplify) , Firebase, MongoDB, Mongoose, SQL, Sequelize, Postgres, Express, and Koa.
+As a 💻📱 Full Stack Developer / Software Engineer with a passion for technology, I have always been eager to explore the world of software development. With a background in electrical engineering, I have a strong foundation in both software and hardware development, and I am constantly looking for new technologies to learn and apply in my work.
 
-Before going full-time in software, I also gained experience with C, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery. These skills were developed during my time at university and have given me a strong foundation in both software and hardware development.
-Some of my strengths include teamwork, analytical thinking, and versatility. These skills have helped me excel in my career and deliver successful projects in dynamic and challenging environments.
+Currently, I am working with technologies such as JavaScript, TypeScript, Git, Angular, React, Vue, Bootstrap, AWS (AWS Lambda, Gateway, Dynamodb, Cognito, and Amplify), Firebase, MongoDB, Mongoose, SQL, Sequelize, Postgres, node, Express, and Koa. I have previously gained experience with C, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery during my time at university.
 
-I'm always excited to learn new technologies and apply them to create innovative solutions. Let's connect and see how we can work together on interesting projects. 🤝😎
+I am known for my strengths in teamwork, analytical thinking, and versatility, which have allowed me to excel in my career and deliver successful projects in dynamic and challenging environments. I am always excited to work on new projects and find innovative solutions to complex problems.
+
+I am always looking for opportunities to connect and collaborate with other professionals in the field. Please feel free to reach out and connect with me on LinkedIn to discuss how we can work together on interesting projects.
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
+* 📲  +34 661 163 041
 * 🚀 I'm currently working on <a href="https://playmotiv.com/" target="_blank"><img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="130" height="auto" alt="JavaScript" /></a> 
 
 ### Skills
