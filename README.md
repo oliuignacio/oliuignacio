@@ -11,16 +11,15 @@ I am known for my strengths in teamwork, analytical thinking, and versatility, w
 
 I am always looking for opportunities to connect and collaborate with other professionals in the field. Please feel free to reach out and connect with me on LinkedIn to discuss how we can work together on interesting projects.
 
-----------------------------------------------------
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
 * 📲  +34 661 163 041
 * 🚀 I'm currently working on <a href="https://playmotiv.com/" target="_blank"><img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="130" height="auto" alt="JavaScript" /></a> 
-----------------------------------------------------
+-------------------------
 
 ### Languages and Tools
 
-----------------------------------------------------
+-------------------------
 <p align="left">
   <a href="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" target="_blank" rel="noreferrer"><img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png" width="64" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -42,14 +41,16 @@ I am always looking for opportunities to connect and collaborate with other prof
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
-----------------------------------------------------
+-------------------------
+
 ### Socials
-----------------------------------------------------
+
+-------------------------
 <p align="left"> <a href="https://www.github.com/oliuignacio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nacho.oliu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ignacio-oliu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-----------------------------------------------------
+-------------------------
 ### Badges
-----------------------------------------------------
+-------------------------
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/oliuignacio"><img src="https://github-readme-stats.vercel.app/api?username=oliuignacio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="oliuignacio's GitHub stats" /></a>
