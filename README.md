@@ -16,7 +16,7 @@ I am always looking for opportunities to connect and collaborate with other prof
 * 📲  +34 661 163 041
 * 🚀 I'm currently working on <a href="https://playmotiv.com/" target="_blank"><img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="130" height="auto" alt="JavaScript" /></a> 
 
-### Skills
+### Languages and Tools
 
 
 <p align="left">
