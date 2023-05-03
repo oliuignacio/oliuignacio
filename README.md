@@ -16,7 +16,7 @@ I am always looking for opportunities to connect and collaborate with other prof
 * 📲  +34 661 163 041
 * 🚀 I'm currently working on <a href="https://playmotiv.com/" target="_blank"><img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="130" height="auto" alt="JavaScript" /></a> 
 
-### Languages and Tools
+Languages and Tools
 -------------------------
 
 <p align="left">
@@ -41,12 +41,12 @@ I am always looking for opportunities to connect and collaborate with other prof
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
-### Socials
+Socials
 -------------------------
 
 <p align="left"> <a href="https://www.github.com/oliuignacio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nacho.oliu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ignacio-oliu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+Badges
 -------------------------
 
 <b>My GitHub Stats</b>
