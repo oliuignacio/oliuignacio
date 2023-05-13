@@ -2,7 +2,7 @@ Hi my name is Ignacio Oliu
 ============================
 
 Full stack Developer | Software Engineering
-----------------------------------------------------
+---------------------------------------------------
 As a 💻📱 Full Stack Developer / Software Engineer with a passion for technology, I have always been eager to explore the world of software development. With a background in electrical engineering, I have a strong foundation in both software and hardware development, and I am constantly looking for new technologies to learn and apply in my work.
 
 Currently, I am working with technologies such as JavaScript, TypeScript, Git, Angular, React, Vue, Bootstrap, AWS (AWS Lambda, Gateway, Dynamodb, Cognito, and Amplify), Firebase, MongoDB, Mongoose, SQL, Sequelize, Postgres, node, Express, and Koa. I have previously gained experience with C, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery during my time at university.
