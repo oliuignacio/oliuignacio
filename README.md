@@ -22,7 +22,7 @@ Contact
 * 🌍  Based in Barcelona, Spain
 * ✉️  [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
 * 📲  +34 661 163 041
-* ⚡ [Linkedin](https://www.linkedin.com/in/ignacio-oliu/)
+* ⚡ [Linkedin](https://www.linkedin.com/in/ignacio-oliu/)<a href="https://www.linkedin.com/in/ignacio-oliu/" target="_blank"></a>
 
 Languages and Tools
 -------------------------
