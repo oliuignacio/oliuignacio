@@ -1,7 +1,6 @@
-Hi my name is Ignacio Oliu
+Ignacio Oliu - Full Stack Developer | Software Engineer
 ====================================
-
-Full stack Developer | Software Engineering
+About me
 --------------------------------------------------
 As a 💻📱 Full Stack Developer / Software Engineer with a passion for technology, I have always been eager to explore the world of software development. With a background in electrical engineering, I have a strong foundation in both software and hardware development, and I am constantly looking for new technologies to learn and apply in my work.
 
