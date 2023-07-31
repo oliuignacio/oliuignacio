@@ -2,18 +2,27 @@ Ignacio Oliu - Full Stack Developer | Software Engineer
 ====================================
 About me
 --------------------------------------------------
-As a 💻📱 Full Stack Developer / Software Engineer with a passion for technology, I have always been eager to explore the world of software development. With a background in electrical engineering, I have a strong foundation in both software and hardware development, and I am constantly looking for new technologies to learn and apply in my work.
+As a passionate Full Stack Developer / Software Engineer with a strong background in electrical engineering, I thrive in the world of software development. My curiosity for technology drives me to constantly explore and learn new technologies to apply in my work.
 
-Currently, I am working with technologies such as JavaScript, TypeScript, Git, Angular, React, Vue, Bootstrap, AWS (AWS Lambda, Gateway, Dynamodb, Cognito, and Amplify), Firebase, MongoDB, Mongoose, SQL, Sequelize, Postgres, node, Express, and Koa. I have previously gained experience with C, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery during my time at university.
+Skills & Technologies
+--------------------------------------------------
 
-I am known for my strengths in teamwork, analytical thinking, and versatility, which have allowed me to excel in my career and deliver successful projects in dynamic and challenging environments. I am always excited to work on new projects and find innovative solutions to complex problems.
+* Frontend: JavaScript, TypeScript, React, Vue, Angular, jQuery, Bootstrap, TailwindCSS, Material UI
+* Backend: Node.js, Express, Koa, .NET
+* Databases: MongoDB, mongoose, PostgreSQL, sequelize, Firebase
+* Cloud: AWS (Lambda, Gateway, DynamoDB, Cognito, Amplify)
+In addition to these, I have experience with other technologies like C, C++, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery.
 
-I am always looking for opportunities to connect and collaborate with other professionals in the field. Please feel free to reach out and connect with me on LinkedIn to discuss how we can work together on interesting projects.
+Projects
+--------------------------------------------------
+🚀 I'm currently working on <a href="https://playmotiv.com/" target="_blank"><img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="130" height="auto" alt="JavaScript" /></a> 
 
-* 🌍  I'm based in Barcelona
-* ✉️  You can contact me at [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
+Contact
+--------------------------------------------------
+* 🌍  Based in Barcelona, Spain
+* ✉️  [oliuignacio@gmail.com](mailto:oliuignacio@gmail.com)
 * 📲  +34 661 163 041
-* 🚀 I'm currently working on <a href="https://playmotiv.com/" target="_blank"><img src="https://playmotiv.com/wp-content/uploads/2020/03/logo.png" width="130" height="auto" alt="JavaScript" /></a> 
+* ⚡ [Linkedin]([mailto:oliuignacio@gmail.com](https://www.linkedin.com/in/ignacio-oliu/))
 
 Languages and Tools
 -------------------------
