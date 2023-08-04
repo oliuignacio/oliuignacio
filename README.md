@@ -1,7 +1,7 @@
 Ignacio Oliu - Full Stack Developer | Software Engineer
 ====================================
 About me
---------------------------------------------------
+---------------------------------------------------
 As a passionate Full Stack Developer / Software Engineer with a strong background in electrical engineering, I thrive in the world of software development. My curiosity for technology drives me to constantly explore and learn new technologies to apply in my work.
 
 Skills & Technologies
