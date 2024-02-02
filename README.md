@@ -15,7 +15,7 @@ In addition to these, I have experience with other technologies like C, C++, Ard
 
 Projects
 --------------------------------------------------
-🚀 I'm currently working on <a href="https://wallbox.com/" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/63f5…e3f-b8aacb6cc333/WBX_Brand_Black.png" width="130" height="auto" alt="wallbox logo" /></a> 
+🚀 I'm currently working on <a href="https://wallbox.com/" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/63f5fd961b3f7f6f4806a6c7/79c6f25e-89d2-419f-8e3f-b8aacb6cc333/WBX_Brand_Black.png?format=1500w" width="130" height="auto" alt="wallbox logo" /></a> 
 
 Contact
 --------------------------------------------------
