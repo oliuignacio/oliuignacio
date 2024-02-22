@@ -7,10 +7,9 @@ As a passionate Full Stack Developer / Software Engineer with a strong backgroun
 Skills & Technologies
 --------------------------------------------------
 
-* Frontend: JavaScript, TypeScript, React, Vue, Angular, jQuery, Bootstrap, TailwindCSS, Material UI
-* Backend: Node.js, Express, Koa, .NET
-* Databases: MongoDB, mongoose, PostgreSQL, sequelize, Firebase
-* Cloud: AWS (Lambda, Gateway, DynamoDB, Cognito, Amplify)
+* Frontend: JavaScript, TypeScript, React, Vue, Angular
+* Backend: Node.js, Express, Koa
+* Databases: MongoDB, mongoose, PostgreSQL, sequelize
 In addition to these, I have experience with other technologies like C, C++, Arduino, Micro:bit, FPGA, Altera Quartus II, Matlab, and AnalogDiscovery.
 
 Projects
