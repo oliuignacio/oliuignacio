@@ -1,4 +1,4 @@
-Ignacio Oliu - Full Stack Developer
+Ignacio Oliú - Full Stack Developer
 =====================================
 About me
 ---------------------------------------------------
