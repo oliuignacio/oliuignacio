@@ -45,9 +45,9 @@ Stack
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,redis,socketio" alt="Node.js, Express, PostgreSQL, Sequelize, Redis, Socket.IO" /></a>
 
-**Frontend** Angular, Ionic, React, Vue
+**Frontend** Angular, React, Vue
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,ionic,react,vue" alt="Angular, Ionic, React, Vue" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,react,vue" alt="Angular, React, Vue" /></a>
 
 **Infrastructure** Docker, Proxmox, Nginx, GitLab CI/CD, AWS
 
